@@ -1,22 +1,24 @@
 about:
-  description: Secure internet sharing made simple.
+  description:
+  |
+    Secure internet sharing made simple.
   license: Apache-2.0
   homepage: https://zrok.io
   head: 11a899c
   archived: false
   latestVersion: v2.0.4
-  collectedAt: 2026-09-04T05:02:57Z
+  collectedAt: 2026-09-04T19:58:34Z
 timeline:
   created: 2022-07-18
   lastCommit: 2026-06-22
   lastRelease: 2026-05-18
 popularity:
-  star: 4661
+  star: 4662
   watcher: 30
   fork: 221
   release: 89
   contributor: 39
-  pullRequest: 62
+  pullRequest: 542
   issue: 726
 language:
   Go: 1660645
@@ -31,7 +33,7 @@ language:
   Jupyter Notebook: 2336
   Dockerfile: 2262
   Makefile: 360
-totalLine: 5103098
+totalBytes: 5103098
 recent:
   last30d:
     since: 2026-08-05
@@ -40,6 +42,14 @@ recent:
     openPR: 1
     closedIssue: 0
     openIssue: 1
+    commit: 0
+  last60d:
+    since: 2026-07-06
+    release: 0
+    mergedPR: 0
+    openPR: 1
+    closedIssue: 0
+    openIssue: 4
     commit: 0
   last90d:
     since: 2026-06-06
@@ -65,3 +75,21 @@ recent:
     closedIssue: 62
     openIssue: 39
     commit: 484
+  last720d:
+    since: 2024-09-14
+    release: 37
+    mergedPR: 208
+    openPR: 4
+    closedIssue: 198
+    openIssue: 74
+    commit: 1805
+total:
+  release: 89
+  mergedPR: 480
+  openPR: 4
+  closedIssue: 606
+  openIssue: 120
+  commit: 4281
+---
+---
+
