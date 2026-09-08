@@ -5,13 +5,13 @@ about:
   head: 11a899c
   archived: false
   latestVersion: "v2.0.4"
-  collectedAt: 2026-09-08T01:43:49Z
+  collectedAt: 2026-09-08T03:34:56Z
 timeline:
   created: 2022-07-18
   lastCommit: 2026-06-22
   lastRelease: 2026-05-18
 popularity:
-  star: 4666
+  star: 4667
   watcher: 30
   fork: 221
   release: 89
@@ -90,7 +90,7 @@ total:
   commit: 4281
 ---
 path: /home/runner/.x-repo/github.com/openziti/zrok
-collectedAt: 2026-09-08T01:43:54Z
+collectedAt: 2026-09-08T03:35:01Z
 loc:
   Go:
     code: 114813
