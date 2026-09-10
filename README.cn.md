@@ -4,7 +4,7 @@
 
 Secure internet sharing made simple.
 
-![zrok](https://repo.x-cmd.io/zrok.svg)
+![zrok](https://repo.x-cmd.io/zrok.svg?lang=zh)
 
 ## 安装
 
@@ -23,23 +23,36 @@ x install zrok
 - **最新版本**: `v2.0.4` (2026-05-18)
 - **最近提交**: 2026-06-22
 - **Release 含资产**: 9 个
-- **发布时间**: 2026-05-18T17:47:38Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [checksums.sha256.txt](https://github.com/openziti/zrok/releases/download/v2.0.4/checksums.sha256.txt) | 771 B | `other` |
+| [sbom-v2.0.4.spdx.json](https://github.com/openziti/zrok/releases/download/v2.0.4/sbom-v2.0.4.spdx.json) | 2.2 MiB | `other` |
+| [source-v2.0.4.tar.gz](https://github.com/openziti/zrok/releases/download/v2.0.4/source-v2.0.4.tar.gz) | 25.2 MiB | `native/unknown` |
+| [zrok_2.0.4_darwin_amd64.tar.gz](https://github.com/openziti/zrok/releases/download/v2.0.4/zrok_2.0.4_darwin_amd64.tar.gz) | 31.9 MiB | `native/darwin/x64` |
+| [zrok_2.0.4_darwin_arm64.tar.gz](https://github.com/openziti/zrok/releases/download/v2.0.4/zrok_2.0.4_darwin_arm64.tar.gz) | 29.5 MiB | `native/darwin/arm64` |
+| [zrok_2.0.4_linux_amd64.tar.gz](https://github.com/openziti/zrok/releases/download/v2.0.4/zrok_2.0.4_linux_amd64.tar.gz) | 31.0 MiB | `native/linux/x64` |
+| [zrok_2.0.4_linux_arm64.tar.gz](https://github.com/openziti/zrok/releases/download/v2.0.4/zrok_2.0.4_linux_arm64.tar.gz) | 28.7 MiB | `native/linux/arm64` |
+| [zrok_2.0.4_linux_armv7.tar.gz](https://github.com/openziti/zrok/releases/download/v2.0.4/zrok_2.0.4_linux_armv7.tar.gz) | 29.5 MiB | `native/linux/arm` |
+| [zrok_2.0.4_windows_amd64.tar.gz](https://github.com/openziti/zrok/releases/download/v2.0.4/zrok_2.0.4_windows_amd64.tar.gz) | 31.6 MiB | `native/win/x64` |
 
 ## 流行度
 
-- **Star**: 4,669 · **Fork**: 220 · **开放 issue**: 726 · **贡献者**: 39
+- **Star**: 4,669 · **Fork**: 221 · **开放 issue**: 726 · **贡献者**: 39
 
 ## 累计统计
 
-- **发布数**: 89 · **已合并 PR**: 480 · **开放 PR**: 4 · **已关闭 issue**: 606 · **开放 issue**: 120 · **提交数**: 4281
+- **发布数**: 89 · **已合并 PR**: 480 · **开放 PR**: 5 · **已关闭 issue**: 606 · **开放 issue**: 120 · **提交数**: 4281
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 1 | 0 | 1 | 0 |
-| 90d | 2026-06-12 | 0 | 2 | 1 | 0 | 4 | 2 |
-| 360d | 2025-09-15 | 14 | 87 | 4 | 57 | 37 | 426 |
+| 30d | 2026-08-11 | 0 | 0 | 2 | 0 | 1 | 0 |
+| 90d | 2026-06-12 | 0 | 2 | 2 | 0 | 4 | 2 |
+| 360d | 2025-09-15 | 14 | 87 | 5 | 57 | 37 | 426 |
 
 ## 代码规模
 
@@ -62,4 +75,4 @@ zrok 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T03:16:47Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T15:57:53Z._
