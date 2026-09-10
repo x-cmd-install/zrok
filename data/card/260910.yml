@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.0.4"
   latestRelease: "v2.0.4"
   latestPrerelease: "v2.0.0-rc8"
-  collectedAt: 2026-09-10T15:57:24Z
+  collectedAt: 2026-09-10T20:12:28Z
 timeline:
   created: 2022-07-18
   lastCommit: 2026-06-22
@@ -94,7 +94,7 @@ total:
   commit: 4281
 ---
 path: /home/runner/.x-repo/github.com/openziti/zrok
-collectedAt: 2026-09-10T15:57:35Z
+collectedAt: 2026-09-10T20:12:36Z
 loc:
   Go:
     code: 114813
