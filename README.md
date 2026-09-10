@@ -12,6 +12,18 @@ Secure internet sharing made simple.
 x install zrok
 ```
 
+## Code insight
+
+Total: **206,206** lines of code across **1632** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Go | 114,813 | 20,061 | 23,678 | 997 |
+| Python | 39,308 | 1,593 | 5,931 | 245 |
+| TypeScript | 17,235 | 8,540 | 4,443 | 272 |
+| Json | 14,403 | 0 | 32 | 85 |
+| Yaml | 6,826 | 1,105 | 408 | 33 |
+
 ## Source
 
 - **Upstream**: <https://github.com/openziti/zrok>
@@ -23,6 +35,25 @@ x install zrok
 - **Latest**: `v2.0.4` (2026-05-18)
 - **Last commit**: 2026-06-22
 - **Assets in release**: 9
+
+## Popularity
+
+- **Stars**: 4,669 · **Forks**: 221 · **Open issues**: 726 · **Contributors**: 39
+
+## Totals (cumulative)
+
+- **Releases**: 89 · **Merged PRs**: 480 · **Open PRs**: 5 · **Closed issues**: 606 · **Open issues**: 120 · **Commits**: 4281
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 0 | 2 | 0 | 1 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 2 | 0 | 4 | 0 |
+| 90d | 2026-06-12 | 0 | 2 | 2 | 0 | 4 | 2 |
+| last180d | 2026-03-14 | 6 | 45 | 4 | 12 | 21 | 126 |
+| 360d | 2025-09-15 | 14 | 87 | 5 | 57 | 37 | 426 |
+| last720d | 2024-09-20 | 36 | 206 | 5 | 196 | 74 | 1775 |
 
 ## Release assets
 
@@ -38,33 +69,14 @@ x install zrok
 | [zrok_2.0.4_linux_armv7.tar.gz](https://github.com/openziti/zrok/releases/download/v2.0.4/zrok_2.0.4_linux_armv7.tar.gz) | 29.5 MiB | `native/linux/arm` |
 | [zrok_2.0.4_windows_amd64.tar.gz](https://github.com/openziti/zrok/releases/download/v2.0.4/zrok_2.0.4_windows_amd64.tar.gz) | 31.6 MiB | `native/win/x64` |
 
-## Popularity
+## Distribution status
 
-- **Stars**: 4,669 · **Forks**: 221 · **Open issues**: 726 · **Contributors**: 39
+Reported by **14** distros on [repology.org](https://repology.org/project/zrok). **3** are ✅ on the latest upstream release, **10** are ⚠️ on an older version.
 
-## Totals (cumulative)
-
-- **Releases**: 89 · **Merged PRs**: 480 · **Open PRs**: 5 · **Closed issues**: 606 · **Open issues**: 120 · **Commits**: 4281
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 2 | 0 | 1 | 0 |
-| 90d | 2026-06-12 | 0 | 2 | 2 | 0 | 4 | 2 |
-| 360d | 2025-09-15 | 14 | 87 | 5 | 57 | 37 | 426 |
-
-## Code size
-
-Total: **206,206** lines of code across **1632** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Go | 114,813 | 20,061 | 23,678 | 997 |
-| Python | 39,308 | 1,593 | 5,931 | 245 |
-| TypeScript | 17,235 | 8,540 | 4,443 | 272 |
-| Json | 14,403 | 0 | 32 | 85 |
-| Yaml | 6,826 | 1,105 | 408 | 33 |
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `2.0.4` | ✅ latest |
+| Nix unstable | `2.0.4` | ✅ latest |
 
 ## Improve this data
 
@@ -75,4 +87,4 @@ Install metadata for zrok lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T15:57:52Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:12:43Z._
