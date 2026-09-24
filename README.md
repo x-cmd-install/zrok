@@ -14,14 +14,14 @@ x install zrok
 
 ## Code insight
 
-Total: **206,206** lines of code across **1632** files in the top 5 languages.
+Total: **206,202** lines of code across **1632** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Go | 114,813 | 20,061 | 23,678 | 997 |
 | Python | 39,308 | 1,593 | 5,931 | 245 |
 | TypeScript | 17,235 | 8,540 | 4,443 | 272 |
-| Json | 14,403 | 0 | 32 | 85 |
+| Json | 14,399 | 0 | 32 | 85 |
 | Yaml | 6,826 | 1,105 | 408 | 33 |
 
 ## Source
@@ -33,27 +33,27 @@ Total: **206,206** lines of code across **1632** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v2.0.4` (2026-05-18)
-- **Last commit**: 2026-06-22
+- **Last commit**: 2026-09-23
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 4,718 · **Forks**: 224 · **Open issues**: 726 · **Contributors**: 39
+- **Stars**: 4,720 · **Forks**: 225 · **Open issues**: 726 · **Contributors**: 40
 
 ## Totals (cumulative)
 
-- **Releases**: 89 · **Merged PRs**: 480 · **Open PRs**: 5 · **Closed issues**: 606 · **Open issues**: 120 · **Commits**: 4281
+- **Releases**: 89 · **Merged PRs**: 481 · **Open PRs**: 5 · **Closed issues**: 606 · **Open issues**: 120 · **Commits**: 4284
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-24 | 0 | 0 | 2 | 0 | 0 | 0 |
-| last60d | 2026-07-25 | 0 | 0 | 2 | 0 | 3 | 0 |
-| 90d | 2026-06-25 | 0 | 0 | 2 | 0 | 4 | 0 |
-| last180d | 2026-03-27 | 4 | 26 | 4 | 10 | 16 | 56 |
-| 360d | 2025-09-28 | 12 | 85 | 5 | 45 | 34 | 358 |
-| last720d | 2024-10-03 | 36 | 201 | 5 | 193 | 73 | 1741 |
+| 30d | 2026-08-25 | 0 | 1 | 2 | 0 | 0 | 1 |
+| last60d | 2026-07-26 | 0 | 1 | 2 | 0 | 3 | 1 |
+| 90d | 2026-06-26 | 0 | 1 | 2 | 0 | 4 | 1 |
+| last180d | 2026-03-28 | 4 | 27 | 4 | 10 | 16 | 57 |
+| 360d | 2025-09-29 | 12 | 85 | 5 | 45 | 33 | 359 |
+| last720d | 2024-10-04 | 35 | 202 | 5 | 191 | 73 | 1737 |
 
 ## Release assets
 
@@ -78,4 +78,4 @@ Install metadata for zrok lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260923.yml` · 2026-09-23T03:31:05Z._
+_Snapshot: `data/card/260924.yml` · 2026-09-24T03:20:22Z._
