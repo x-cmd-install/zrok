@@ -32,28 +32,28 @@ Total: **208,334** lines of code across **1644** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.1.12` (2026-09-27)
+- **Latest**: `v1.1.13` (2026-09-28)
 - **Last commit**: 2026-09-27
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 4,723 · **Forks**: 224 · **Open issues**: 727 · **Contributors**: 40
+- **Stars**: 4,724 · **Forks**: 224 · **Open issues**: 727 · **Contributors**: 40
 
 ## Totals (cumulative)
 
-- **Releases**: 91 · **Merged PRs**: 483 · **Open PRs**: 5 · **Closed issues**: 606 · **Open issues**: 121 · **Commits**: 4294
+- **Releases**: 92 · **Merged PRs**: 483 · **Open PRs**: 5 · **Closed issues**: 606 · **Open issues**: 121 · **Commits**: 4294
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 2 | 3 | 2 | 0 | 1 | 0 |
-| last60d | 2026-07-30 | 2 | 3 | 2 | 0 | 2 | 0 |
-| 90d | 2026-06-30 | 2 | 3 | 2 | 0 | 5 | 0 |
-| last180d | 2026-04-01 | 5 | 24 | 2 | 8 | 14 | 0 |
-| 360d | 2025-10-03 | 13 | 82 | 5 | 42 | 33 | 0 |
-| last720d | 2024-10-08 | 37 | 204 | 5 | 191 | 74 | 1735 |
+| 30d | 2026-08-30 | 3 | 3 | 2 | 0 | 1 | 9 |
+| last60d | 2026-07-31 | 3 | 3 | 2 | 0 | 2 | 9 |
+| 90d | 2026-07-01 | 3 | 3 | 2 | 0 | 5 | 9 |
+| last180d | 2026-04-02 | 6 | 24 | 2 | 8 | 13 | 63 |
+| 360d | 2025-10-04 | 14 | 82 | 5 | 42 | 33 | 359 |
+| last720d | 2024-10-09 | 38 | 204 | 5 | 191 | 72 | 1732 |
 
 ## Release assets
 
@@ -78,4 +78,4 @@ Install metadata for zrok lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260928.yml` · 2026-09-28T03:52:24Z._
+_Snapshot: `data/card/260929.yml` · 2026-09-29T04:26:48Z._
