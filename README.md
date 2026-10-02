@@ -38,7 +38,7 @@ Total: **209,998** lines of code across **1654** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 4,728 · **Forks**: 225 · **Open issues**: 728 · **Contributors**: 40
+- **Stars**: 4,732 · **Forks**: 225 · **Open issues**: 728 · **Contributors**: 40
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **209,998** lines of code across **1654** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-01 | 4 | 7 | 2 | 0 | 2 | 14 |
-| last60d | 2026-08-02 | 4 | 7 | 2 | 0 | 3 | 14 |
-| 90d | 2026-07-03 | 4 | 7 | 2 | 0 | 6 | 14 |
-| last180d | 2026-04-04 | 7 | 28 | 2 | 8 | 14 | 68 |
-| 360d | 2025-10-06 | 15 | 84 | 5 | 41 | 34 | 364 |
-| last720d | 2024-10-11 | 39 | 207 | 5 | 191 | 73 | 1735 |
+| 30d | 2026-09-02 | 4 | 7 | 2 | 0 | 2 | 14 |
+| last60d | 2026-08-03 | 4 | 7 | 2 | 0 | 3 | 14 |
+| 90d | 2026-07-04 | 4 | 7 | 2 | 0 | 6 | 14 |
+| last180d | 2026-04-05 | 7 | 28 | 2 | 8 | 14 | 68 |
+| 360d | 2025-10-07 | 14 | 84 | 5 | 41 | 34 | 364 |
+| last720d | 2024-10-12 | 39 | 207 | 5 | 191 | 73 | 1731 |
 
 ## Release assets
 
@@ -78,4 +78,4 @@ Install metadata for zrok lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261001.yml` · 2026-10-01T04:22:10Z._
+_Snapshot: `data/card/261002.yml` · 2026-10-02T04:15:01Z._
