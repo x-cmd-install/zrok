@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 771,
       "digest": "sha256:163aad30cc9c014c8862be817406f18ee3331ded40891e55b88075186126f052",
-      "download_count": 54,
+      "download_count": 64,
       "created_at": "2026-09-29T23:35:42Z",
       "updated_at": "2026-09-29T23:35:42Z",
       "browser_download_url": "https://github.com/openziti/zrok/releases/download/v2.0.6/checksums.sha256.txt"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 26471214,
       "digest": "sha256:0e4a7d182e2bde3678bd2f3f92377eedb0c7b05324fb977d8e98c2ef089f56fa",
-      "download_count": 119,
+      "download_count": 134,
       "created_at": "2026-09-29T23:35:41Z",
       "updated_at": "2026-09-29T23:35:43Z",
       "browser_download_url": "https://github.com/openziti/zrok/releases/download/v2.0.6/source-v2.0.6.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 33528583,
       "digest": "sha256:7ea3fe875585d48ee6734fc5feb235f6ada03fb0a21dade80fa35a7db21cc5ed",
-      "download_count": 9,
+      "download_count": 27,
       "created_at": "2026-09-29T23:35:39Z",
       "updated_at": "2026-09-29T23:35:41Z",
       "browser_download_url": "https://github.com/openziti/zrok/releases/download/v2.0.6/zrok_2.0.6_darwin_amd64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 31059814,
       "digest": "sha256:1ebaede9f0eb9f0a25bdf84f596496fec482f75315eefc09a1fa95a75a655e50",
-      "download_count": 29,
+      "download_count": 55,
       "created_at": "2026-09-29T23:35:39Z",
       "updated_at": "2026-09-29T23:35:41Z",
       "browser_download_url": "https://github.com/openziti/zrok/releases/download/v2.0.6/zrok_2.0.6_darwin_arm64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 32576115,
       "digest": "sha256:39ff33916523619713bd7c1253f0e4e76f1e8e0d2b2e3f2f7232ec77d0556c96",
-      "download_count": 118,
+      "download_count": 198,
       "created_at": "2026-09-29T23:35:41Z",
       "updated_at": "2026-09-29T23:35:43Z",
       "browser_download_url": "https://github.com/openziti/zrok/releases/download/v2.0.6/zrok_2.0.6_linux_amd64.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 30214012,
       "digest": "sha256:b0a71b05f63049d8f142e9fa2c7d2a2d02e824a2a7b1117b4201ca8d63a59c50",
-      "download_count": 11,
+      "download_count": 20,
       "created_at": "2026-09-29T23:35:39Z",
       "updated_at": "2026-09-29T23:35:41Z",
       "browser_download_url": "https://github.com/openziti/zrok/releases/download/v2.0.6/zrok_2.0.6_linux_arm64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 31045881,
       "digest": "sha256:0ff702895f22dac614c5e6d98971b91c7608ec03a0160d58922504960f866d3e",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-09-29T23:35:39Z",
       "updated_at": "2026-09-29T23:35:41Z",
       "browser_download_url": "https://github.com/openziti/zrok/releases/download/v2.0.6/zrok_2.0.6_linux_armv7.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 33168054,
       "digest": "sha256:a48b6778bb8f2c9d29df8a44a092043189af9c2b5c8bd162b22c95cce1c97807",
-      "download_count": 244,
+      "download_count": 326,
       "created_at": "2026-09-29T23:35:41Z",
       "updated_at": "2026-09-29T23:35:43Z",
       "browser_download_url": "https://github.com/openziti/zrok/releases/download/v2.0.6/zrok_2.0.6_windows_amd64.tar.gz"
