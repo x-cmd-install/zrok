@@ -48,12 +48,12 @@ Total: **216,801** lines of code across **1698** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 6 | 11 | 0 | 1 | 2 | 24 |
-| last60d | 2026-08-23 | 6 | 11 | 1 | 1 | 2 | 27 |
-| 90d | 2026-07-24 | 6 | 11 | 1 | 1 | 5 | 27 |
-| last180d | 2026-04-25 | 8 | 27 | 1 | 11 | 10 | 58 |
-| 360d | 2025-10-27 | 15 | 87 | 4 | 35 | 30 | 329 |
-| last720d | 2024-11-01 | 40 | 203 | 4 | 187 | 67 | 1701 |
+| 30d | 2026-09-23 | 6 | 10 | 0 | 1 | 2 | 24 |
+| last60d | 2026-08-24 | 6 | 11 | 1 | 1 | 2 | 27 |
+| 90d | 2026-07-25 | 6 | 11 | 1 | 1 | 5 | 27 |
+| last180d | 2026-04-26 | 8 | 27 | 1 | 11 | 10 | 58 |
+| 360d | 2025-10-28 | 15 | 87 | 4 | 35 | 30 | 329 |
+| last720d | 2024-11-02 | 40 | 203 | 4 | 187 | 67 | 1696 |
 
 ## Release assets
 
@@ -69,6 +69,15 @@ Total: **216,801** lines of code across **1698** files in the top 5 languages.
 | [zrok_2.0.8_linux_armv7.tar.gz](https://github.com/openziti/zrok/releases/download/v2.0.8/zrok_2.0.8_linux_armv7.tar.gz) | 29.7 MiB | `native/linux/arm` |
 | [zrok_2.0.8_windows_amd64.tar.gz](https://github.com/openziti/zrok/releases/download/v2.0.8/zrok_2.0.8_windows_amd64.tar.gz) | 31.7 MiB | `native/win/x64` |
 
+## Distribution status
+
+Reported by **14** distros on [repology.org](https://repology.org/project/zrok). **2** are ✅ on the latest upstream release, **11** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `2.0.8` | ✅ latest |
+| Nix unstable | `2.0.4` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for zrok lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `zrok` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -78,4 +87,4 @@ Install metadata for zrok lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T03:27:24Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T03:32:44Z._
