@@ -14,14 +14,14 @@ x install zrok
 
 ## 代码洞察
 
-合计: **216,801** 行代码（覆盖前 5 种语言、共 **1698** 个文件）。
+合计: **224,692** 行代码（覆盖前 5 种语言、共 **1751** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 125,028 | 21,008 | 25,108 | 1059 |
+| Go | 132,799 | 21,236 | 25,497 | 1108 |
 | Python | 39,715 | 1,606 | 5,984 | 247 |
 | TypeScript | 17,426 | 8,661 | 4,485 | 274 |
-| Json | 13,997 | 0 | 32 | 85 |
+| Json | 14,117 | 0 | 32 | 89 |
 | Yaml | 6,997 | 1,116 | 413 | 33 |
 
 ## 源代码
@@ -32,42 +32,42 @@ x install zrok
 
 ## 发布
 
-- **最新版本**: `v2.0.8` (2026-10-08)
-- **最近提交**: 2026-10-08
+- **最新版本**: `v2.0.9` (2026-10-31)
+- **最近提交**: 2026-10-30
 - **Release 含资产**: 9 个
 
 ## 流行度
 
-- **Star**: 4,792 · **Fork**: 229 · **开放 issue**: 727 · **贡献者**: 40
+- **Star**: 4,797 · **Fork**: 229 · **开放 issue**: 727 · **贡献者**: 40
 
 ## 累计统计
 
-- **发布数**: 95 · **已合并 PR**: 491 · **开放 PR**: 5 · **已关闭 issue**: 610 · **开放 issue**: 117 · **提交数**: 4320
+- **发布数**: 96 · **已合并 PR**: 492 · **开放 PR**: 4 · **已关闭 issue**: 610 · **开放 issue**: 117 · **提交数**: 4335
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 2 | 4 | 1 | 0 | 1 | 13 |
-| last60d | 2026-08-31 | 6 | 11 | 2 | 1 | 2 | 27 |
-| 90d | 2026-08-01 | 6 | 11 | 2 | 1 | 3 | 27 |
-| last180d | 2026-05-03 | 8 | 24 | 2 | 5 | 10 | 49 |
-| 360d | 2025-11-04 | 15 | 87 | 5 | 34 | 29 | 324 |
-| last720d | 2024-11-09 | 39 | 199 | 5 | 186 | 67 | 1666 |
+| 30d | 2026-10-01 | 3 | 5 | 0 | 0 | 1 | 27 |
+| last60d | 2026-09-01 | 7 | 12 | 1 | 1 | 2 | 41 |
+| 90d | 2026-08-02 | 7 | 12 | 1 | 1 | 3 | 41 |
+| last180d | 2026-05-04 | 9 | 25 | 1 | 5 | 10 | 63 |
+| 360d | 2025-11-05 | 16 | 88 | 4 | 34 | 29 | 338 |
+| last720d | 2024-11-10 | 40 | 200 | 4 | 186 | 67 | 1681 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [checksums.sha256.txt](https://github.com/openziti/zrok/releases/download/v2.0.8/checksums.sha256.txt) | 771 B | `other` |
-| [sbom-v2.0.8.spdx.json](https://github.com/openziti/zrok/releases/download/v2.0.8/sbom-v2.0.8.spdx.json) | 2.2 MiB | `other` |
-| [source-v2.0.8.tar.gz](https://github.com/openziti/zrok/releases/download/v2.0.8/source-v2.0.8.tar.gz) | 25.3 MiB | `native/unknown` |
-| [zrok_2.0.8_darwin_amd64.tar.gz](https://github.com/openziti/zrok/releases/download/v2.0.8/zrok_2.0.8_darwin_amd64.tar.gz) | 32.1 MiB | `native/darwin/x64` |
-| [zrok_2.0.8_darwin_arm64.tar.gz](https://github.com/openziti/zrok/releases/download/v2.0.8/zrok_2.0.8_darwin_arm64.tar.gz) | 29.7 MiB | `native/darwin/arm64` |
-| [zrok_2.0.8_linux_amd64.tar.gz](https://github.com/openziti/zrok/releases/download/v2.0.8/zrok_2.0.8_linux_amd64.tar.gz) | 31.2 MiB | `native/linux/x64` |
-| [zrok_2.0.8_linux_arm64.tar.gz](https://github.com/openziti/zrok/releases/download/v2.0.8/zrok_2.0.8_linux_arm64.tar.gz) | 28.9 MiB | `native/linux/arm64` |
-| [zrok_2.0.8_linux_armv7.tar.gz](https://github.com/openziti/zrok/releases/download/v2.0.8/zrok_2.0.8_linux_armv7.tar.gz) | 29.7 MiB | `native/linux/arm` |
-| [zrok_2.0.8_windows_amd64.tar.gz](https://github.com/openziti/zrok/releases/download/v2.0.8/zrok_2.0.8_windows_amd64.tar.gz) | 31.7 MiB | `native/win/x64` |
+| [checksums.sha256.txt](https://github.com/openziti/zrok/releases/download/v2.0.9/checksums.sha256.txt) | 771 B | `other` |
+| [sbom-v2.0.9.spdx.json](https://github.com/openziti/zrok/releases/download/v2.0.9/sbom-v2.0.9.spdx.json) | 2.2 MiB | `other` |
+| [source-v2.0.9.tar.gz](https://github.com/openziti/zrok/releases/download/v2.0.9/source-v2.0.9.tar.gz) | 25.4 MiB | `native/unknown` |
+| [zrok_2.0.9_darwin_amd64.tar.gz](https://github.com/openziti/zrok/releases/download/v2.0.9/zrok_2.0.9_darwin_amd64.tar.gz) | 34.1 MiB | `native/darwin/x64` |
+| [zrok_2.0.9_darwin_arm64.tar.gz](https://github.com/openziti/zrok/releases/download/v2.0.9/zrok_2.0.9_darwin_arm64.tar.gz) | 31.5 MiB | `native/darwin/arm64` |
+| [zrok_2.0.9_linux_amd64.tar.gz](https://github.com/openziti/zrok/releases/download/v2.0.9/zrok_2.0.9_linux_amd64.tar.gz) | 33.1 MiB | `native/linux/x64` |
+| [zrok_2.0.9_linux_arm64.tar.gz](https://github.com/openziti/zrok/releases/download/v2.0.9/zrok_2.0.9_linux_arm64.tar.gz) | 30.7 MiB | `native/linux/arm64` |
+| [zrok_2.0.9_linux_armv7.tar.gz](https://github.com/openziti/zrok/releases/download/v2.0.9/zrok_2.0.9_linux_armv7.tar.gz) | 31.6 MiB | `native/linux/arm` |
+| [zrok_2.0.9_windows_amd64.tar.gz](https://github.com/openziti/zrok/releases/download/v2.0.9/zrok_2.0.9_windows_amd64.tar.gz) | 33.7 MiB | `native/win/x64` |
 
 ## 发行版状态
 
@@ -87,4 +87,4 @@ zrok 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261030.yml` · 2026-10-30T04:33:26Z._
+_数据快照: `data/card/261031.yml` · 2026-10-31T04:15:58Z._
