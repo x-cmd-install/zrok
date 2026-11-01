@@ -38,7 +38,7 @@ Total: **224,692** lines of code across **1751** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 4,797 · **Forks**: 229 · **Open issues**: 727 · **Contributors**: 40
+- **Stars**: 4,796 · **Forks**: 229 · **Open issues**: 727 · **Contributors**: 40
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **224,692** lines of code across **1751** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 3 | 5 | 0 | 0 | 1 | 27 |
-| last60d | 2026-09-01 | 7 | 12 | 1 | 1 | 2 | 41 |
-| 90d | 2026-08-02 | 7 | 12 | 1 | 1 | 3 | 41 |
-| last180d | 2026-05-04 | 9 | 25 | 1 | 5 | 10 | 63 |
-| 360d | 2025-11-05 | 16 | 88 | 4 | 34 | 29 | 338 |
-| last720d | 2024-11-10 | 40 | 200 | 4 | 186 | 67 | 1681 |
+| 30d | 2026-10-02 | 3 | 2 | 0 | 0 | 1 | 14 |
+| last60d | 2026-09-02 | 7 | 12 | 1 | 1 | 2 | 41 |
+| 90d | 2026-08-03 | 7 | 12 | 1 | 1 | 3 | 41 |
+| last180d | 2026-05-05 | 9 | 25 | 1 | 5 | 10 | 53 |
+| 360d | 2025-11-06 | 16 | 88 | 4 | 33 | 28 | 318 |
+| last720d | 2024-11-11 | 40 | 200 | 4 | 186 | 67 | 1681 |
 
 ## Release assets
 
@@ -75,7 +75,7 @@ Reported by **14** distros on [repology.org](https://repology.org/project/zrok).
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `2.0.8` | ✅ latest |
+| Homebrew | `2.0.9` | ✅ latest |
 | Nix unstable | `2.0.4` | ⚠️ outdated |
 
 ## Improve this data
@@ -87,4 +87,4 @@ Install metadata for zrok lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261031.yml` · 2026-10-31T04:15:57Z._
+_Snapshot: `data/card/261101.yml` · 2026-11-01T04:36:40Z._
