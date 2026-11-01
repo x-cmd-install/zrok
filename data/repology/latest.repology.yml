@@ -49,7 +49,7 @@
 - repo: homebrew
   srcname: zrok
   visiblename: zrok
-  version: 2.0.8
+  version: 2.0.9
   origversion: null
   status: newest
   summary: Geo-scale, next-generation sharing platform built on top of OpenZiti
@@ -130,7 +130,7 @@
   subrepo: extras
   binname: zrok
   visiblename: zrok
-  version: 2.0.8
+  version: 2.0.9
   origversion: null
   status: newest
   licenses:
