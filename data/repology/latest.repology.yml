@@ -1,3 +1,13 @@
+- repo: termux
+  srcname: zrok
+  binname: zrok
+  visiblename: zrok
+  version: 1.1.13
+  origversion: null
+  status: outdated
+  summary: An open source sharing solution built on OpenZiti.
+  maintainers:
+    - tom@termux.dev
 - repo: aur
   srcname: zrok
   binname: zrok
@@ -49,7 +59,7 @@
 - repo: homebrew
   srcname: zrok
   visiblename: zrok
-  version: 2.0.9
+  version: 2.0.10
   origversion: null
   status: newest
   summary: Geo-scale, next-generation sharing platform built on top of OpenZiti
@@ -130,18 +140,8 @@
   subrepo: extras
   binname: zrok
   visiblename: zrok
-  version: 2.0.9
+  version: 2.0.10
   origversion: null
   status: newest
   licenses:
     - Apache-2.0
-- repo: termux
-  srcname: zrok
-  binname: zrok
-  visiblename: zrok
-  version: 1.1.13
-  origversion: null
-  status: outdated
-  summary: An open source sharing solution built on OpenZiti.
-  maintainers:
-    - tom@termux.dev
