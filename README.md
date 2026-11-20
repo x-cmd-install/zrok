@@ -14,15 +14,15 @@ x install zrok
 
 ## Code insight
 
-Total: **226,578** lines of code across **1761** files in the top 5 languages.
+Total: **228,099** lines of code across **1765** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 134,598 | 21,387 | 25,660 | 1118 |
+| Go | 136,119 | 21,488 | 25,828 | 1122 |
 | Python | 39,743 | 1,609 | 5,996 | 247 |
 | TypeScript | 17,471 | 8,668 | 4,493 | 274 |
 | Json | 14,129 | 0 | 32 | 89 |
-| Yaml | 6,997 | 1,116 | 413 | 33 |
+| Yaml | 6,997 | 1,137 | 413 | 33 |
 
 ## Source
 
@@ -32,42 +32,42 @@ Total: **226,578** lines of code across **1761** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v2.0.10` (2026-11-16)
-- **Last commit**: 2026-11-17
+- **Latest**: `v2.0.11` (2026-11-19)
+- **Last commit**: 2026-11-19
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 4,822 · **Forks**: 231 · **Open issues**: 727 · **Contributors**: 41
+- **Stars**: 4,823 · **Forks**: 231 · **Open issues**: 727 · **Contributors**: 41
 
 ## Totals (cumulative)
 
-- **Releases**: 97 · **Merged PRs**: 497 · **Open PRs**: 4 · **Closed issues**: 610 · **Open issues**: 117 · **Commits**: 4350
+- **Releases**: 98 · **Merged PRs**: 501 · **Open PRs**: 2 · **Closed issues**: 610 · **Open issues**: 117 · **Commits**: 4359
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 2 | 6 | 0 | 0 | 0 | 24 |
-| last60d | 2026-09-20 | 8 | 17 | 0 | 1 | 2 | 51 |
-| 90d | 2026-08-21 | 8 | 17 | 1 | 1 | 2 | 51 |
-| last180d | 2026-05-23 | 8 | 19 | 1 | 4 | 9 | 53 |
-| 360d | 2025-11-24 | 17 | 92 | 4 | 29 | 26 | 321 |
-| last720d | 2024-11-29 | 41 | 201 | 4 | 180 | 67 | 1642 |
+| 30d | 2026-10-21 | 3 | 10 | 0 | 0 | 0 | 29 |
+| last60d | 2026-09-21 | 9 | 21 | 0 | 1 | 2 | 56 |
+| 90d | 2026-08-22 | 9 | 21 | 0 | 1 | 2 | 56 |
+| last180d | 2026-05-24 | 9 | 23 | 0 | 4 | 9 | 58 |
+| 360d | 2025-11-25 | 18 | 96 | 2 | 29 | 26 | 326 |
+| last720d | 2024-11-30 | 42 | 204 | 2 | 180 | 67 | 1651 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [checksums.sha256.txt](https://github.com/openziti/zrok/releases/download/v2.0.10/checksums.sha256.txt) | 779 B | `other` |
-| [sbom-v2.0.10.spdx.json](https://github.com/openziti/zrok/releases/download/v2.0.10/sbom-v2.0.10.spdx.json) | 2.2 MiB | `other` |
-| [source-v2.0.10.tar.gz](https://github.com/openziti/zrok/releases/download/v2.0.10/source-v2.0.10.tar.gz) | 25.4 MiB | `native/unknown` |
-| [zrok_2.0.10_darwin_amd64.tar.gz](https://github.com/openziti/zrok/releases/download/v2.0.10/zrok_2.0.10_darwin_amd64.tar.gz) | 34.1 MiB | `native/darwin/x64` |
-| [zrok_2.0.10_darwin_arm64.tar.gz](https://github.com/openziti/zrok/releases/download/v2.0.10/zrok_2.0.10_darwin_arm64.tar.gz) | 31.5 MiB | `native/darwin/arm64` |
-| [zrok_2.0.10_linux_amd64.tar.gz](https://github.com/openziti/zrok/releases/download/v2.0.10/zrok_2.0.10_linux_amd64.tar.gz) | 33.1 MiB | `native/linux/x64` |
-| [zrok_2.0.10_linux_arm64.tar.gz](https://github.com/openziti/zrok/releases/download/v2.0.10/zrok_2.0.10_linux_arm64.tar.gz) | 30.7 MiB | `native/linux/arm64` |
-| [zrok_2.0.10_linux_armv7.tar.gz](https://github.com/openziti/zrok/releases/download/v2.0.10/zrok_2.0.10_linux_armv7.tar.gz) | 31.6 MiB | `native/linux/arm` |
-| [zrok_2.0.10_windows_amd64.tar.gz](https://github.com/openziti/zrok/releases/download/v2.0.10/zrok_2.0.10_windows_amd64.tar.gz) | 33.7 MiB | `native/win/x64` |
+| [checksums.sha256.txt](https://github.com/openziti/zrok/releases/download/v2.0.11/checksums.sha256.txt) | 779 B | `other` |
+| [sbom-v2.0.11.spdx.json](https://github.com/openziti/zrok/releases/download/v2.0.11/sbom-v2.0.11.spdx.json) | 2.2 MiB | `other` |
+| [source-v2.0.11.tar.gz](https://github.com/openziti/zrok/releases/download/v2.0.11/source-v2.0.11.tar.gz) | 25.4 MiB | `native/unknown` |
+| [zrok_2.0.11_darwin_amd64.tar.gz](https://github.com/openziti/zrok/releases/download/v2.0.11/zrok_2.0.11_darwin_amd64.tar.gz) | 34.1 MiB | `native/darwin/x64` |
+| [zrok_2.0.11_darwin_arm64.tar.gz](https://github.com/openziti/zrok/releases/download/v2.0.11/zrok_2.0.11_darwin_arm64.tar.gz) | 31.5 MiB | `native/darwin/arm64` |
+| [zrok_2.0.11_linux_amd64.tar.gz](https://github.com/openziti/zrok/releases/download/v2.0.11/zrok_2.0.11_linux_amd64.tar.gz) | 33.1 MiB | `native/linux/x64` |
+| [zrok_2.0.11_linux_arm64.tar.gz](https://github.com/openziti/zrok/releases/download/v2.0.11/zrok_2.0.11_linux_arm64.tar.gz) | 30.7 MiB | `native/linux/arm64` |
+| [zrok_2.0.11_linux_armv7.tar.gz](https://github.com/openziti/zrok/releases/download/v2.0.11/zrok_2.0.11_linux_armv7.tar.gz) | 31.7 MiB | `native/linux/arm` |
+| [zrok_2.0.11_windows_amd64.tar.gz](https://github.com/openziti/zrok/releases/download/v2.0.11/zrok_2.0.11_windows_amd64.tar.gz) | 33.7 MiB | `native/win/x64` |
 
 ## Distribution status
 
@@ -75,7 +75,7 @@ Reported by **14** distros on [repology.org](https://repology.org/project/zrok).
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `2.0.10` | ✅ latest |
+| Homebrew | `2.0.11` | ✅ latest |
 | Nix unstable | `2.0.4` | ⚠️ outdated |
 
 ## Improve this data
@@ -87,4 +87,4 @@ Install metadata for zrok lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T06:03:45Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T05:52:52Z._
