@@ -38,22 +38,22 @@ Total: **228,099** lines of code across **1765** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 4,827 · **Forks**: 232 · **Open issues**: 728 · **Contributors**: 41
+- **Stars**: 4,831 · **Forks**: 233 · **Open issues**: 728 · **Contributors**: 41
 
 ## Totals (cumulative)
 
-- **Releases**: 98 · **Merged PRs**: 501 · **Open PRs**: 2 · **Closed issues**: 610 · **Open issues**: 118 · **Commits**: 4359
+- **Releases**: 98 · **Merged PRs**: 501 · **Open PRs**: 3 · **Closed issues**: 610 · **Open issues**: 118 · **Commits**: 4359
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 3 | 10 | 0 | 0 | 1 | 22 |
-| last60d | 2026-09-26 | 9 | 19 | 0 | 0 | 3 | 42 |
-| 90d | 2026-08-27 | 9 | 21 | 0 | 1 | 3 | 56 |
-| last180d | 2026-05-29 | 9 | 23 | 0 | 4 | 9 | 58 |
-| 360d | 2025-11-30 | 18 | 96 | 2 | 29 | 27 | 326 |
-| last720d | 2024-12-05 | 42 | 204 | 2 | 177 | 68 | 1638 |
+| 30d | 2026-10-27 | 3 | 9 | 1 | 0 | 1 | 22 |
+| last60d | 2026-09-27 | 9 | 18 | 1 | 0 | 3 | 42 |
+| 90d | 2026-08-28 | 9 | 21 | 1 | 1 | 3 | 56 |
+| last180d | 2026-05-30 | 9 | 23 | 1 | 4 | 9 | 58 |
+| 360d | 2025-12-01 | 18 | 96 | 3 | 29 | 27 | 326 |
+| last720d | 2024-12-06 | 42 | 204 | 3 | 177 | 68 | 1632 |
 
 ## Release assets
 
@@ -69,15 +69,6 @@ Total: **228,099** lines of code across **1765** files in the top 5 languages.
 | [zrok_2.0.11_linux_armv7.tar.gz](https://github.com/openziti/zrok/releases/download/v2.0.11/zrok_2.0.11_linux_armv7.tar.gz) | 31.7 MiB | `native/linux/arm` |
 | [zrok_2.0.11_windows_amd64.tar.gz](https://github.com/openziti/zrok/releases/download/v2.0.11/zrok_2.0.11_windows_amd64.tar.gz) | 33.7 MiB | `native/win/x64` |
 
-## Distribution status
-
-Reported by **14** distros on [repology.org](https://repology.org/project/zrok). **2** are ✅ on the latest upstream release, **11** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `2.0.11` | ✅ latest |
-| Nix unstable | `2.0.4` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for zrok lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `zrok` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -87,4 +78,4 @@ Install metadata for zrok lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T07:09:26Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T07:00:07Z._
