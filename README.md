@@ -48,12 +48,12 @@ Total: **228,099** lines of code across **1765** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 3 | 9 | 1 | 0 | 1 | 22 |
-| last60d | 2026-09-28 | 7 | 18 | 1 | 0 | 3 | 42 |
-| 90d | 2026-08-29 | 9 | 21 | 1 | 1 | 3 | 56 |
-| last180d | 2026-05-31 | 9 | 23 | 1 | 4 | 9 | 58 |
-| 360d | 2025-12-02 | 18 | 96 | 3 | 29 | 27 | 326 |
-| last720d | 2024-12-07 | 42 | 204 | 3 | 177 | 68 | 1629 |
+| 30d | 2026-10-29 | 3 | 9 | 1 | 0 | 1 | 22 |
+| last60d | 2026-09-29 | 6 | 14 | 1 | 0 | 2 | 42 |
+| 90d | 2026-08-30 | 9 | 21 | 1 | 1 | 3 | 56 |
+| last180d | 2026-06-01 | 9 | 23 | 1 | 3 | 9 | 58 |
+| 360d | 2025-12-03 | 18 | 96 | 3 | 29 | 27 | 326 |
+| last720d | 2024-12-08 | 42 | 204 | 3 | 177 | 68 | 1629 |
 
 ## Release assets
 
@@ -78,4 +78,4 @@ Install metadata for zrok lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T06:54:47Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T06:28:49Z._
